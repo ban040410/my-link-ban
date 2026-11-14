@@ -12,12 +12,12 @@ export default function Home() {
 
         {/* 소개 태그 */}
         <span className="mt-2 inline-flex items-center rounded-full bg-blue-50 px-3 py-1 text-xs font-medium text-blue-600 dark:bg-blue-950/60 dark:text-blue-300">
-          대학생 · 바이브 코딩
+          주니어 개발자 · Software Engineer
         </span>
 
         {/* 소개글 */}
         <p className="mt-5 text-base leading-relaxed text-zinc-600 dark:text-zinc-400 break-keep">
-          안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.
+          안녕하세요! 문제를 해결하고 가치 있는 서비스를 만들어가는 개발자 반기완입니다. 새로운 기술을 배우고 더 나은 사용자 경험을 고민하는 것을 좋아합니다.
         </p>
       </div>
     </main>
